@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "taxiService Report", "taxiService Report\taxiService Report.rptproj", "{D8DC4352-A2FF-4838-A5ED-10007B975657}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8DC4352-A2FF-4838-A5ED-10007B975657}.Debug|Default.ActiveCfg = Debug
+		{D8DC4352-A2FF-4838-A5ED-10007B975657}.Debug|Default.Build.0 = Debug
+		{D8DC4352-A2FF-4838-A5ED-10007B975657}.Debug|Default.Deploy.0 = Debug
+		{D8DC4352-A2FF-4838-A5ED-10007B975657}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{D8DC4352-A2FF-4838-A5ED-10007B975657}.DebugLocal|Default.Build.0 = DebugLocal
+		{D8DC4352-A2FF-4838-A5ED-10007B975657}.Release|Default.ActiveCfg = Release
+		{D8DC4352-A2FF-4838-A5ED-10007B975657}.Release|Default.Build.0 = Release
+		{D8DC4352-A2FF-4838-A5ED-10007B975657}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
